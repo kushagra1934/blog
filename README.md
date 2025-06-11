@@ -74,7 +74,7 @@ Handles creation and retrieval of comments associated with posts.
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/microservices-blog.git
-   cd microservices-blog
+   git clone https://github.com/kushagra1934/blog.git
+   cd blog
 
 
